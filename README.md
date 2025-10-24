@@ -5,7 +5,7 @@
 
 <p align="center">
 
-- 👤 My name is NdyZz
+- 👤 My name is Sandi Kurniawan (NdyZz)
 - 💌 I was born in 2004
 - 👨‍💻 I am beginner programmer
 
