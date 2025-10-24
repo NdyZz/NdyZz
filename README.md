@@ -68,7 +68,7 @@
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=NdyZz&repo=lontara-language&theme=dark)
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=NdyZz&repo=Syikapi&theme=nightowl)
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=NdyZz&repo=Fikah-Bot&theme=dark)
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=Fikah-Bot&repo=NdyZz&theme=nightowl)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=NdyZz&repo=NdyZz&theme=nightowl)
 
 ### My Progress in Programming 🧑‍🔬 
 
